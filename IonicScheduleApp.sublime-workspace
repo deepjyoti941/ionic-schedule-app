@@ -318,12 +318,28 @@
 				"buffer_size": 858,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 1908,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/playlists.html",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 35.0,
 		"selected_items":
 		[
 			[
@@ -335,7 +351,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 512.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -356,6 +372,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Deepjyoti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/android/sdk/tools/ant/build.xml",
 		"/C/wamp/www/aumfs_automation/views/oncall/oncall.html",
 		"/C/wamp/www/aumfs_automation/views/otj/otj.html",
@@ -482,8 +499,7 @@
 		"/C/Users/deepjyoti/Desktop/my-app/www/index.html",
 		"/C/wamp/www/aumfs_automation/settings.json",
 		"/C/Users/deepjyoti/Documents/appointment_system/admin001/index.php",
-		"/C/Users/deepjyoti/Documents/appointment_system/index.php",
-		"/C/Users/deepjyoti/Desktop/flipbook/trun.js"
+		"/C/Users/deepjyoti/Documents/appointment_system/index.php"
 	],
 	"find":
 	{
@@ -646,7 +662,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -676,7 +692,67 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								691
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 551.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/templates/playlists.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
