@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"io",
+				"ionicPlateform"
+			],
+			[
 				"customer",
 				"customer_id"
 			],
@@ -318,6 +322,33 @@
 				"buffer_size": 860,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "www/app/app.js",
+			"settings":
+			{
+				"buffer_size": 872,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<ion-side-menus>\n	<ion-pane ion-side-menu-content>\n		\n	</ion-pane>\n	<ion-side-menu side=\"left\">\n	</ion-side-menu>\n</ion-side-menus>",
+			"file": "www/app/layout/menu-layout.html",
+			"file_size": 0,
+			"file_write_time": 130569188321622843,
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Deepjyoti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -359,12 +390,15 @@
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app/layout",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/templates"
 	],
 	"file_history":
 	[
-		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app/app.js",
+		"/C/Users/Deepjyoti/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/js/app.js",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app/home/home.html",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app/app.js",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/README.md",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/LICENSE",
 		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/templates/playlists.html",
@@ -488,9 +522,7 @@
 		"/C/wamp/www/aumfs_automation/aumfs/scripts/custom.js",
 		"/C/wamp/www/angularcode_autocomplete/includes/config.php",
 		"/C/wamp/www/angularcode_autocomplete/ajax/getCountries.php",
-		"/C/wamp/www/aumfs_automation/aumfs/scripts/libs/toastr.js",
-		"/C/wamp/www/aumfs_automation/aumfs/styles/libs/toastr.css",
-		"/C/wamp/www/aumfs_automation/aumfs/api/index.php"
+		"/C/wamp/www/aumfs_automation/aumfs/scripts/libs/toastr.js"
 	],
 	"find":
 	{
@@ -653,7 +685,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -669,8 +701,8 @@
 						"selection":
 						[
 							[
-								705,
-								705
+								797,
+								805
 							]
 						],
 						"settings":
@@ -678,6 +710,90 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								865,
+								865
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/app/layout/menu-layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Deepjyoti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
