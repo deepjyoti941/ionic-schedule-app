@@ -315,23 +315,7 @@
 			"file": "www/index.html",
 			"settings":
 			{
-				"buffer_size": 858,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "www/js/app.js",
-			"settings":
-			{
-				"buffer_size": 1908,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "www/templates/playlists.html",
-			"settings":
-			{
-				"buffer_size": 397,
+				"buffer_size": 860,
 				"line_ending": "Unix"
 			}
 		}
@@ -370,8 +354,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/templates"
+	],
 	"file_history":
 	[
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/app/app.js",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/js/app.js",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/README.md",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/LICENSE",
+		"/C/Users/Deepjyoti/Documents/IonicScheduleApp/www/templates/playlists.html",
 		"/C/Users/Deepjyoti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/android/sdk/tools/ant/build.xml",
 		"/C/wamp/www/aumfs_automation/views/oncall/oncall.html",
@@ -494,12 +490,7 @@
 		"/C/wamp/www/angularcode_autocomplete/ajax/getCountries.php",
 		"/C/wamp/www/aumfs_automation/aumfs/scripts/libs/toastr.js",
 		"/C/wamp/www/aumfs_automation/aumfs/styles/libs/toastr.css",
-		"/C/wamp/www/aumfs_automation/aumfs/api/index.php",
-		"/C/wamp/www/aumfs_automation/aumfs/views/header.html",
-		"/C/Users/deepjyoti/Desktop/my-app/www/index.html",
-		"/C/wamp/www/aumfs_automation/settings.json",
-		"/C/Users/deepjyoti/Documents/appointment_system/admin001/index.php",
-		"/C/Users/deepjyoti/Documents/appointment_system/index.php"
+		"/C/wamp/www/aumfs_automation/aumfs/api/index.php"
 	],
 	"find":
 	{
@@ -662,7 +653,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -671,15 +662,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 858,
+						"buffer_size": 860,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								458,
-								458
+								705,
+								705
 							]
 						],
 						"settings":
@@ -692,67 +683,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "www/js/app.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1908,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								691,
-								691
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 551.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "www/templates/playlists.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 397,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								26,
-								26
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1023,6 +954,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
